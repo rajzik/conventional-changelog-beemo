@@ -1694,14 +1694,14 @@
     dom-storage "^2.1.0"
     jest "^25.1.0"
 
-"@rajzik/config-prettier@^1.4.9":
-  version "1.4.9"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-prettier/-/config-prettier-1.4.9.tgz#048e55aed571f05e0e17734174acf4456f7dd9a0"
-  integrity sha512-2kN88B9EIzaRGLIWiTX55FBfYXCWddGuvOj4Nb1XoAP+7MIQZ6FNkrvjiv7B1mUCx1IMcEEuAQRGfFrd5FxzSA==
+"@rajzik/config-prettier@^1.4.10":
+  version "1.4.10"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-prettier/-/config-prettier-1.4.10.tgz#091fc6f43175a2aed7d409073bd929449303f7e2"
+  integrity sha512-qNeOS3RWr8J332e37VWMl0vajLeyXaHfM674XuuJEqeovje+qfpXbOPvUruUIrE8Fol5w+E46yzYItM8COlvLw==
   dependencies:
     "@beemo/core" "^1.1.5"
     "@beemo/driver-prettier" "^1.2.2"
-    "@rajzik/lumos-common" "^1.5.4"
+    "@rajzik/lumos-common" "^1.6.0"
     prettier "^1.19.1"
 
 "@rajzik/config-typescript@^1.4.8":
@@ -1718,10 +1718,10 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.5.4":
-  version "1.5.4"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.5.4.tgz#c4ac4e4228495b02ce77585b764365ef99de698a"
-  integrity sha512-jJpVgrnD5McZQo8tRSDXU7GgWf2lutjoJjpmcTJlaiuEJWEwMi1wtxrIw1sRj+X36D22qRxKzTrPr1WWYXqXeg==
+"@rajzik/lumos-common@^1.5.4", "@rajzik/lumos-common@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.6.0.tgz#004178d8a9034f42a98d2e4b35ed48b37b841341"
+  integrity sha512-U7yvxDare426S8nGjtB3ja74/+He9eOkZnuqobH6iA9zZ19uYFtX7w3dvvZKoCnowZrwro7ZJr5j9vXH8YrK2g==
   dependencies:
     "@beemo/core" "^1.1.5"
     "@boost/core" "^1.18.2"
