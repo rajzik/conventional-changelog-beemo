@@ -1653,14 +1653,14 @@
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     babel-plugin-typescript-to-proptypes "^1.3.0"
 
-"@rajzik/config-eslint@^1.6.10":
-  version "1.6.10"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-1.6.10.tgz#de0c0380515120736ea13d7bd1cab58ae1022ebf"
-  integrity sha512-UEJl2jN3kmqbCVd+cRd8K1uMROi5OCWW3jPG5UQEFPNz3PPEidrO0+3chKrb7LZsIM8vHoC8JqIWQiLNPQcvPw==
+"@rajzik/config-eslint@^1.6.11":
+  version "1.6.11"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-1.6.11.tgz#b0f27d22df89bcff11a1cc03c957e9c15d5e706d"
+  integrity sha512-2pn1ttFMtPMnwttRgu2kPdSQhAYlubtkMbemN7kVL57FL6huP+KIqW0y3Qcl2qIwejByEHIujKEm9P6BpkJYnQ==
   dependencies:
     "@beemo/core" "^1.1.5"
     "@beemo/driver-eslint" "^1.2.2"
-    "@rajzik/lumos-common" "^1.5.4"
+    "@rajzik/lumos-common" "^1.6.0"
     "@typescript-eslint/eslint-plugin" "^2.22.0"
     "@typescript-eslint/parser" "^2.22.0"
     babel-eslint "^10.1.0"
@@ -1718,10 +1718,10 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.5.4":
-  version "1.5.4"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.5.4.tgz#c4ac4e4228495b02ce77585b764365ef99de698a"
-  integrity sha512-jJpVgrnD5McZQo8tRSDXU7GgWf2lutjoJjpmcTJlaiuEJWEwMi1wtxrIw1sRj+X36D22qRxKzTrPr1WWYXqXeg==
+"@rajzik/lumos-common@^1.5.4", "@rajzik/lumos-common@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.6.0.tgz#004178d8a9034f42a98d2e4b35ed48b37b841341"
+  integrity sha512-U7yvxDare426S8nGjtB3ja74/+He9eOkZnuqobH6iA9zZ19uYFtX7w3dvvZKoCnowZrwro7ZJr5j9vXH8YrK2g==
   dependencies:
     "@beemo/core" "^1.1.5"
     "@boost/core" "^1.18.2"
