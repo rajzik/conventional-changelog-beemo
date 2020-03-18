@@ -1667,16 +1667,16 @@
     eslint-plugin-react-hooks "^2.5.0"
     eslint-plugin-unicorn "^17.2.0"
 
-"@rajzik/config-jest@^1.6.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-jest/-/config-jest-1.6.1.tgz#0a1e65b1f379ec5f91aa76f767aab27011555f3d"
-  integrity sha512-Qgz/EXAxYaa1jQIr0ODrT53BreymzBNwgMkNfso9zxecCJ4uiIt5l059v74culWCIGTHAMRwSjyeve0pRV2aew==
+"@rajzik/config-jest@^1.7.1":
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-jest/-/config-jest-1.7.1.tgz#b3779fa78960b4f90846ee7ded3fcb9df4f9df36"
+  integrity sha512-fgbDQVZ8SV2s6GmCr0hnB7XwZInKiZib1mXJjX77HtDy7DjO/OdmO81SzoTZ00K8TUuSM+LNS6QGXAJ6rk6OVQ==
   dependencies:
     "@babel/core" "^7.8.7"
     "@beemo/core" "^1.1.5"
     "@beemo/driver-babel" "^1.2.2"
     "@beemo/driver-jest" "^1.2.1"
-    "@rajzik/lumos-common" "^1.6.0"
+    "@rajzik/lumos-common" "^1.7.1"
     "@types/jest" "^25.1.4"
     airbnb-js-shims "^2.2.1"
     cross-env "^7.0.2"
@@ -1712,13 +1712,13 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.6.0.tgz#004178d8a9034f42a98d2e4b35ed48b37b841341"
-  integrity sha512-U7yvxDare426S8nGjtB3ja74/+He9eOkZnuqobH6iA9zZ19uYFtX7w3dvvZKoCnowZrwro7ZJr5j9vXH8YrK2g==
+"@rajzik/lumos-common@^1.6.0", "@rajzik/lumos-common@^1.7.1":
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.7.1.tgz#550f9f4e5e38caedb2ec73f82e34917c7abacd8e"
+  integrity sha512-d6VYRdTfkKkjaD++R4Tl9+xSGy/uiaT6FbzPueWNRWCkpjVlAY7sioPrhcFH251p3HQ5iFNPvY6v1uccBuLMtQ==
   dependencies:
     "@beemo/core" "^1.1.5"
-    "@boost/core" "^1.18.2"
+    "@boost/common" "^1.8.2"
     execa "^4.0.0"
     fast-glob "^3.2.2"
 
