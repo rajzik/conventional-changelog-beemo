@@ -1616,10 +1616,10 @@
     "@semantic-release/release-notes-generator" "^9.0.1"
     conventional-changelog-beemo "^1.6.0"
 
-"@rajzik/config-babel@^1.7.6":
-  version "1.7.6"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-babel/-/config-babel-1.7.6.tgz#25946ee54e67632182990077d80581b5c61f0fee"
-  integrity sha512-W7MXroLCwrDcf8GpMGI20GX6FCePJJrz/bFR9r/VOBnQaBXe2jTl5liL49MzLqpSk3RgaFLNkl+nUib81rNG1w==
+"@rajzik/config-babel@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-babel/-/config-babel-1.8.0.tgz#05b605658964d48bcd1b633656c9b754f954aca3"
+  integrity sha512-wGcg/I3BcX06Yi59rQkQHgO0rY8GhPr2WIOzTVuMNikz12EUgXwJOwOBpuRCVsjl0bXjDqFWxcPVxREzOqjb6Q==
   dependencies:
     "@babel/cli" "^7.8.4"
     "@babel/core" "^7.8.7"
@@ -1637,7 +1637,7 @@
     "@babel/preset-typescript" "^7.8.3"
     "@beemo/core" "^1.1.5"
     "@beemo/driver-babel" "^1.2.2"
-    "@rajzik/lumos-common" "^1.6.0"
+    "@rajzik/lumos-common" "^1.7.0"
     babel-plugin-graphql-tag "^2.5.0"
     babel-plugin-idx "^2.4.0"
     babel-plugin-transform-dev "^2.0.1"
@@ -1712,10 +1712,10 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.6.0.tgz#004178d8a9034f42a98d2e4b35ed48b37b841341"
-  integrity sha512-U7yvxDare426S8nGjtB3ja74/+He9eOkZnuqobH6iA9zZ19uYFtX7w3dvvZKoCnowZrwro7ZJr5j9vXH8YrK2g==
+"@rajzik/lumos-common@^1.6.0", "@rajzik/lumos-common@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.7.0.tgz#5c6a8f340f426a1617c16feb8c1d6ed4e222f5e0"
+  integrity sha512-nqlfYgzs6NQA+XGHcICxThSc2RdIMUi29ChyKkran1OR9EgUBydKhJ87TQ00IIo5oW4YlP+7M3H6b3H/neiOfQ==
   dependencies:
     "@beemo/core" "^1.1.5"
     "@boost/core" "^1.18.2"
