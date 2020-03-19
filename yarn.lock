@@ -1717,15 +1717,15 @@
     execa "^4.0.0"
     fast-glob "^3.2.2"
 
-"@rajzik/lumos@^1.9.2":
-  version "1.9.2"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos/-/lumos-1.9.2.tgz#f9c47b4773c205a39cb8e553206f997686640e30"
-  integrity sha512-jLmsWlSreJNLsnnX2gjlHvaXFjddX69Gbw6R/bXdE8j2bCN149fsYEKkV21ejiFL47PFXpVoyBeQwKU2Fgx/OQ==
+"@rajzik/lumos@^1.10.2":
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos/-/lumos-1.10.2.tgz#b6b6dd4ed994aa09b32928b46b0a0f3bfafaf304"
+  integrity sha512-YCjbu+YO6+SYNXXiSz7Uw74bUtNdMTD5jOOEw3hNCMA1B2NdStIfFARLcq0ByyHtHnQQpc+ahTbAG62Mw22M5A==
   dependencies:
     "@beemo/cli" "^1.0.9"
     "@beemo/core" "^1.1.5"
     "@rajzik/conventional-changelog-beemo" "^2.0.1"
-    "@rajzik/lumos-common" "^1.6.0"
+    "@rajzik/lumos-common" "^1.7.1"
     chalk "^3.0.0"
     check-node-version "^4.0.2"
     cross-env "^7.0.2"
