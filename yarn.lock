@@ -1192,6 +1192,17 @@
     optimal "^4.2.0"
     pretty-ms "^5.1.0"
 
+"@boost/common@^1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@boost/common/-/common-1.8.3.tgz#ea491c50c40f54f3eb094aa26c5134f0d759e206"
+  integrity sha512-3R0hfJ1eoiBcybCdvqZirKpXebNWHJ0GSNwwXEmQlEVWfS+8BTnE8Qg/+U8oZNhBS6DeA44Lh2AWEDNbHTZ2KA==
+  dependencies:
+    "@boost/internal" "^1.1.0"
+    js-yaml "^3.13.1"
+    json5 "^2.1.2"
+    optimal "^4.2.0"
+    pretty-ms "^5.1.0"
+
 "@boost/core@^1.18.2":
   version "1.18.2"
   resolved "https://registry.yarnpkg.com/@boost/core/-/core-1.18.2.tgz#3e1af5805b68d555803a2cd75571d83e8b5050a9"
@@ -1782,16 +1793,16 @@
     eslint-plugin-react-hooks "^2.5.1"
     eslint-plugin-unicorn "^17.2.0"
 
-"@rajzik/config-jest@^1.7.4":
-  version "1.7.4"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-jest/-/config-jest-1.7.4.tgz#09f1b1e10b33f3ff56164d35f641e93d2f949047"
-  integrity sha512-pWK5aoAfuOmSVkG+VHFJScNY/JfhmzbhDSpMDSmfaVDG1H94eDNpR/jlqduEbeAQ+CEoqlHiWd7w6rho8ShVHw==
+"@rajzik/config-jest@^1.7.5":
+  version "1.7.5"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-jest/-/config-jest-1.7.5.tgz#3ecbdfdbc724f63fb5cd2df4fa3e26e0f950ac50"
+  integrity sha512-If/Ohhlr9V7ULs0jv77erDwB7ZkF/Bpa9+uIFSq++D7NkQ4m5VXv0G/IIAk2Lj+Zb/F52izAr9oPiW+rVp0BTQ==
   dependencies:
     "@babel/core" "^7.9.0"
     "@beemo/core" "^1.1.6"
     "@beemo/driver-babel" "^1.2.3"
     "@beemo/driver-jest" "^1.2.1"
-    "@rajzik/lumos-common" "^1.7.2"
+    "@rajzik/lumos-common" "^1.7.3"
     "@types/jest" "^25.1.4"
     airbnb-js-shims "^2.2.1"
     cross-env "^7.0.2"
@@ -1827,13 +1838,13 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.7.2":
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.7.2.tgz#82ab104265e3aec6646c2c27fc0ce0c92f4e9920"
-  integrity sha512-efl9/N4NF2dxpXOyDTRBcjefyMXT/Z355Z1hqH0IXiSwYgV7mcFPPXDCyCvzgKFQK5HEaa3fMgkGoOF2MOr94A==
+"@rajzik/lumos-common@^1.7.2", "@rajzik/lumos-common@^1.7.3":
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.7.3.tgz#2ca95ca8cddc675ee4e6ed03dcb9fce1cf5fca6f"
+  integrity sha512-q+U/Z645HY9hCaIskFp28c3P/lLlgPg/bLVxuc/FsUkLkavwRIR1nwzXrW2+GHHQvFXy765H/LTfpHdn4CLoWg==
   dependencies:
     "@beemo/core" "^1.1.6"
-    "@boost/common" "^1.8.2"
+    "@boost/common" "^1.8.3"
     execa "^4.0.0"
     fast-glob "^3.2.2"
 
