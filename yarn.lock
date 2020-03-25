@@ -1793,10 +1793,10 @@
     eslint-plugin-react-hooks "^2.5.1"
     eslint-plugin-unicorn "^17.2.0"
 
-"@rajzik/config-jest@^1.7.5":
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-jest/-/config-jest-1.7.5.tgz#3ecbdfdbc724f63fb5cd2df4fa3e26e0f950ac50"
-  integrity sha512-If/Ohhlr9V7ULs0jv77erDwB7ZkF/Bpa9+uIFSq++D7NkQ4m5VXv0G/IIAk2Lj+Zb/F52izAr9oPiW+rVp0BTQ==
+"@rajzik/config-jest@^1.7.6":
+  version "1.7.6"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-jest/-/config-jest-1.7.6.tgz#1800e49d3703b34abc0584c3a59ceeb8e68a8712"
+  integrity sha512-VK7OA++gPsQb6dGNXUWNNLBERphtWkST1JTSJB58hQk+0HATGtHbYHHSq+h0nPgbHKPkyFdLDRQQfVlCuzPSOQ==
   dependencies:
     "@babel/core" "^7.9.0"
     "@beemo/core" "^1.1.6"
