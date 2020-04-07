@@ -1786,14 +1786,14 @@
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     babel-plugin-typescript-to-proptypes "^1.3.2"
 
-"@rajzik/config-eslint@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-2.2.1.tgz#01f3637dc1ad21b291b19a0e4aafe68b03835608"
-  integrity sha512-khK64YITEjn/niEKFtnzTbNttOL+aVT8dJ35zOzG2giOy1yWxHZsqZPIU8FiXx3OsdMRNm5gNf3A2WhN3ZiU3g==
+"@rajzik/config-eslint@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-2.2.2.tgz#43d73279a5f187be4ca85c9fea8dfd0e0ed0920f"
+  integrity sha512-RkyuEwdqxFFrW6siIUrUrMUjLQH+oR63u9tnVLnikEE560Jz8JNlFn/GgIGld2XR3CKUBS0/QARzSl0TDU1W7g==
   dependencies:
     "@beemo/core" "^1.1.6"
     "@beemo/driver-eslint" "^1.2.2"
-    "@rajzik/lumos-common" "^1.9.0"
+    "@rajzik/lumos-common" "^1.9.1"
     "@typescript-eslint/eslint-plugin" "^2.27.0"
     "@typescript-eslint/parser" "^2.27.0"
     babel-eslint "^10.1.0"
@@ -1807,7 +1807,7 @@
     eslint-plugin-promise "^4.2.1"
     eslint-plugin-react "^7.19.0"
     eslint-plugin-react-hooks "^3.0.0"
-    eslint-plugin-testing-library "^3.0.2"
+    eslint-plugin-testing-library "^3.0.3"
     eslint-plugin-unicorn "^18.0.1"
 
 "@rajzik/config-jest@^1.9.1":
@@ -1856,10 +1856,10 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.9.0":
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.9.0.tgz#af3b0bf4cb52cc52350f12458df430f6fcbd692c"
-  integrity sha512-Ctrpqjnqv3nhsNaeXrbzPP1wo5sbNfWJjefIHAJVwB9jra1WejdGYOcjx96QGKc3MSSWuGyVSBxvc2KnOmTFsA==
+"@rajzik/lumos-common@^1.9.0", "@rajzik/lumos-common@^1.9.1":
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.9.1.tgz#86bc3608258e5e40eb929630da2611796cd31c32"
+  integrity sha512-HNNG2ARHgqK/FTbkLC3QRVSE0pee67u2XxJss9pIjYUk7L2oDaNHzmYPdJsnCeICW1bJHWQYOCnwWymTeR+KRw==
   dependencies:
     "@beemo/core" "^1.1.6"
     "@boost/common" "^1.8.3"
@@ -4286,10 +4286,10 @@ eslint-plugin-react@^7.19.0:
     string.prototype.matchall "^4.0.2"
     xregexp "^4.3.0"
 
-eslint-plugin-testing-library@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-3.0.2.tgz#e7c451020e4dbb595f2b23f85810404aaa562a32"
-  integrity sha512-bi68ZIjwRZqFVDpcMkkZ0L489UQRroSUegeN9wSxRGWsi3nV7jkM3oNk6CxHRrcn5j8RLt+4Xq9y+5A2Xs5ZIQ==
+eslint-plugin-testing-library@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-3.0.3.tgz#521f51b9b9383b31434c185bcef0b497932a20d1"
+  integrity sha512-Lk5p/WC6UA+u9KYJwSUVzDKTbNItGJFP1ozsLVJXWcV5dPPRFcfYX5Q8ntQCKBQVAxri9l4nY4cbr0yz5lIBrw==
 
 eslint-plugin-unicorn@^18.0.1:
   version "18.0.1"
