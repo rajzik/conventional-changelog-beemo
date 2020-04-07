@@ -1763,10 +1763,10 @@
     "@semantic-release/release-notes-generator" "^9.0.1"
     conventional-changelog-beemo "^1.6.0"
 
-"@rajzik/config-babel@^1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-babel/-/config-babel-1.9.9.tgz#4acbae328f77815f703a94a11e45283bacc63aff"
-  integrity sha512-2rL40d8HtpLqmuMb6w3VQusYA9DvEUU4LGHknW+X+ILv2s1neAss/B4Qo8RT53qEl+Z2vKq25ZKPMO6Mcu4PsA==
+"@rajzik/config-babel@^1.9.10":
+  version "1.9.10"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-babel/-/config-babel-1.9.10.tgz#b70698d0650c175866718ce8511ff7f9d162c371"
+  integrity sha512-4KD2GrJqqddW4DwoMEf2aIIgBfzZrXMoG7giYOH0cU0Ms7aZPtcAdJ/wLsaDA22MBMCL9IZ0smNIQdVo5IQwBw==
   dependencies:
     "@babel/cli" "^7.8.4"
     "@babel/core" "^7.9.0"
@@ -1780,7 +1780,7 @@
     "@babel/preset-typescript" "^7.9.0"
     "@beemo/core" "^1.1.6"
     "@beemo/driver-babel" "^1.2.3"
-    "@rajzik/lumos-common" "^1.9.0"
+    "@rajzik/lumos-common" "^1.9.1"
     babel-plugin-graphql-tag "^2.5.0"
     babel-plugin-transform-dev "^2.0.1"
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
@@ -1856,10 +1856,10 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.1.tgz#0ace1c7d0377df0ebd150a99ae71418e25bdde66"
   integrity sha512-IMsLXO7VcTSdJM8rGT41HubNsoiO4iE7ZtzyJ0ezSqGSkkz94uhztNnYHiJFzeAJ8MCMOyDAHZiEHBiM68aY6w==
 
-"@rajzik/lumos-common@^1.9.0":
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.9.0.tgz#af3b0bf4cb52cc52350f12458df430f6fcbd692c"
-  integrity sha512-Ctrpqjnqv3nhsNaeXrbzPP1wo5sbNfWJjefIHAJVwB9jra1WejdGYOcjx96QGKc3MSSWuGyVSBxvc2KnOmTFsA==
+"@rajzik/lumos-common@^1.9.0", "@rajzik/lumos-common@^1.9.1":
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-1.9.1.tgz#86bc3608258e5e40eb929630da2611796cd31c32"
+  integrity sha512-HNNG2ARHgqK/FTbkLC3QRVSE0pee67u2XxJss9pIjYUk7L2oDaNHzmYPdJsnCeICW1bJHWQYOCnwWymTeR+KRw==
   dependencies:
     "@beemo/core" "^1.1.6"
     "@boost/common" "^1.8.3"
