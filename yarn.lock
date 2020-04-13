@@ -1897,10 +1897,10 @@
     execa "^4.0.0"
     fast-glob "^3.2.2"
 
-"@rajzik/lumos@^2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos/-/lumos-2.1.7.tgz#54c246ddaa91172401e8b5f30122b374519d6863"
-  integrity sha512-8vcEfpleQ5LLfpyMCa22KOsEjj4byvhLUP/4YiL21JAGyIrPvp+xuly4IX3Gn1IjUOPEIHuQPrZq2YGXB1/4nA==
+"@rajzik/lumos@^2.1.8":
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos/-/lumos-2.1.8.tgz#d6ad5102fedb4f36d99becaa3b1733259b155f5c"
+  integrity sha512-McfHDZ8wiZ2g7Vp+TXyi3a5tCFw+Xb6mPkMtFjveq6yC6GDKtbutxRc4j6euK/0BxdBUq9pLj1ht0muAr8qsyw==
   dependencies:
     "@beemo/cli" "^1.0.10"
     "@beemo/core" "^1.1.6"
