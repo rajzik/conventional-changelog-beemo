@@ -1836,10 +1836,10 @@
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     babel-plugin-typescript-to-proptypes "^1.3.2"
 
-"@rajzik/config-eslint@^2.4.11":
-  version "2.4.11"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-2.4.11.tgz#debada120c5165edc2cd8bf686f7f051084f9276"
-  integrity sha512-DE0kQWEu0GZzgp6FHVZWyPNfcrKtjIlYyGCp+4wr6TTlFWUwSQW6MBo62L42xtUeYzTdG4BW38iz/hC42reOiA==
+"@rajzik/config-eslint@^2.4.12":
+  version "2.4.12"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-2.4.12.tgz#ea8dcb42190e9626688226b04e3307c9bf5de1a2"
+  integrity sha512-kW8B05pJDGI01202n3PAQyhXYXHb3rQsIdA5GdXwasuFz+N3a98EYyJ0btzyBG0N+zAmOFEhiiA7pCiJ01KO4A==
   dependencies:
     "@beemo/core" "^1.1.7"
     "@beemo/driver-eslint" "^1.2.2"
@@ -1858,7 +1858,7 @@
     eslint-plugin-promise "^4.2.1"
     eslint-plugin-react "^7.19.0"
     eslint-plugin-react-hooks "^4.0.0"
-    eslint-plugin-testing-library "^3.1.0"
+    eslint-plugin-testing-library "^3.1.1"
     eslint-plugin-unicorn "^19.0.1"
 
 "@rajzik/config-jest@^1.10.10":
@@ -4431,10 +4431,10 @@ eslint-plugin-react@^7.19.0:
     string.prototype.matchall "^4.0.2"
     xregexp "^4.3.0"
 
-eslint-plugin-testing-library@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-3.1.0.tgz#52e3387c22a07873a5ac9bbdfe8bffe3c4b052af"
-  integrity sha512-N2T2w57lLcrl/1OBnN8b+Bv6lAzIETO2kde5chwN9egcfZnVkwaVh4D6GbgNe5vOkTE7dVj8nLP5Y8NHqwp/ew==
+eslint-plugin-testing-library@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-3.1.1.tgz#4d9af279951203f6b2f2ebb742b45877ec7960f9"
+  integrity sha512-UeluWWl7IQS28XbG+opnu3ZTDXxxNGoUr3sP+YnC5yfVFV/LLv6PJGSTM2t/NwoUOhTjpEiIzV4L4ie4pT/Kgg==
   dependencies:
     "@typescript-eslint/experimental-utils" "^2.29.0"
 
