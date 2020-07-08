@@ -1967,14 +1967,14 @@
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     babel-plugin-typescript-to-proptypes "^1.3.2"
 
-"@rajzik/config-eslint@^2.4.65":
-  version "2.4.65"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-2.4.65.tgz#aad626e4b6373c1aa5d156d503c476847f885155"
-  integrity sha512-CvZXTFVkKpnQ7lFoWcMxuJvC1Bb8zrAnPLkg+3KUfOYDnEfKLo/jcbNuWxf1+L/FhlKdCDkLaIRb4xoam/3xSw==
+"@rajzik/config-eslint@^2.4.66":
+  version "2.4.66"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-eslint/-/config-eslint-2.4.66.tgz#7e1ce7962c3026f90bbaaaccbb453af08bcac91c"
+  integrity sha512-nZfgW89GPjYVGhq6Dx+REIDzoyBxMHDNq/7Lq2xXqbZMZ0G+Vqp4lpv5vsqqxeKff/QY6TEyKd4WA2XNWZCEjw==
   dependencies:
     "@beemo/core" "^1.1.8"
     "@beemo/driver-eslint" "^1.2.3"
-    "@rajzik/lumos-common" "^2.0.11"
+    "@rajzik/lumos-common" "^2.0.12"
     "@typescript-eslint/eslint-plugin" "^3.6.0"
     "@typescript-eslint/parser" "^3.6.0"
     babel-eslint "^10.1.0"
@@ -1988,7 +1988,7 @@
     eslint-plugin-prettier "^3.1.4"
     eslint-plugin-promise "^4.2.1"
     eslint-plugin-react "^7.20.3"
-    eslint-plugin-react-hooks "^4.0.5"
+    eslint-plugin-react-hooks "^4.0.6"
     eslint-plugin-testing-library "^3.3.1"
     eslint-plugin-unicorn "^20.1.0"
 
@@ -2039,14 +2039,14 @@
   resolved "https://registry.yarnpkg.com/@rajzik/conventional-changelog-lint-config-beemo/-/conventional-changelog-lint-config-beemo-1.0.2.tgz#d14f0b87c758a7deb45cda15a077e134348df76d"
   integrity sha512-wIsY2yAU2Q/dC+FZO7d2eYlyUwu0YaCr73Tk1BtSbAksjaf43oe1P8pWAe0GRqLrMuwpWTBWQ/tVZNYoejsytQ==
 
-"@rajzik/lumos-common@^2.0.11":
-  version "2.0.11"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-2.0.11.tgz#a1fcb7731d2c37ed8e1bab57b44ec9884abfc841"
-  integrity sha512-LWQJCeIhg7plcLwFmp7g+NN0DEuWOwJ/NxHGvdqFrkDIOOirTF2JJM+sSvHsDrKhD9+6UJKXNkGAcKyi9tULcw==
+"@rajzik/lumos-common@^2.0.11", "@rajzik/lumos-common@^2.0.12":
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-2.0.12.tgz#a760d0c71d6780f252dd529b6cad8efd23d2f4ec"
+  integrity sha512-TR0FKKsM/WVkaNKA8fZ2a35AEyscyjv8RPxD3oFzX+KIsSpWRYGl1TVWWCK5O/GSs69QSG/7SxkO8uQ6WFHSYw==
   dependencies:
     "@beemo/core" "^1.1.8"
     "@boost/common" "^1.9.0"
-    execa "^4.0.2"
+    execa "^4.0.3"
     fast-glob "^3.2.4"
 
 "@rajzik/lumos@^3.0.86":
@@ -4599,10 +4599,10 @@ eslint-plugin-promise@^4.2.1:
   resolved "https://registry.npmjs.org/eslint-plugin-promise/-/eslint-plugin-promise-4.2.1.tgz#845fd8b2260ad8f82564c1222fce44ad71d9418a"
   integrity sha512-VoM09vT7bfA7D+upt+FjeBO5eHIJQBUWki1aPvB+vbNiHS3+oGIJGIeyBtKQTME6UPXXy3vV07OL1tHd3ANuDw==
 
-eslint-plugin-react-hooks@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.0.5.tgz#4879003aa38e5d05d0312175beb6e4a1f617bfcf"
-  integrity sha512-3YLSjoArsE2rUwL8li4Yxx1SUg3DQWp+78N3bcJQGWVZckcp+yeQGsap/MSq05+thJk57o+Ww4PtZukXGL02TQ==
+eslint-plugin-react-hooks@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.0.6.tgz#4027ae451b5cd219928edd0ff9eab54a8ea82901"
+  integrity sha512-RDrsUR/BjwCECcWS+5bc7mWiU/M1IOizKt40Zuei5mn0Eydubiooh87aSCiZ/BGMSUF7P8AqyMEqQL0RsAihmw==
 
 eslint-plugin-react@^7.20.3:
   version "7.20.3"
@@ -4834,6 +4834,21 @@ execa@^4.0.0, execa@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/execa/-/execa-4.0.2.tgz#ad87fb7b2d9d564f70d2b62d511bee41d5cbb240"
   integrity sha512-QI2zLa6CjGWdiQsmSkZoGtDx2N+cQIGb3yNolGTdjSQzydzLgYYf8LRuagp7S7fPimjcrzUDSUFd/MgzELMi4Q==
+  dependencies:
+    cross-spawn "^7.0.0"
+    get-stream "^5.0.0"
+    human-signals "^1.1.1"
+    is-stream "^2.0.0"
+    merge-stream "^2.0.0"
+    npm-run-path "^4.0.0"
+    onetime "^5.1.0"
+    signal-exit "^3.0.2"
+    strip-final-newline "^2.0.0"
+
+execa@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-4.0.3.tgz#0a34dabbad6d66100bd6f2c576c8669403f317f2"
+  integrity sha512-WFDXGHckXPWZX19t1kCsXzOpqX9LWYNqn4C+HqZlk/V0imTkzJZqf87ZBhvpHaftERYknpk0fjSylnXVlVgI0A==
   dependencies:
     cross-spawn "^7.0.0"
     get-stream "^5.0.0"
