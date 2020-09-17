@@ -2270,10 +2270,10 @@
     execa "^4.0.3"
     fast-glob "^3.2.4"
 
-"@rajzik/lumos@^4.1.8":
-  version "4.1.8"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos/-/lumos-4.1.8.tgz#e4fb9e9d7e3832c45ac72be4f00ee11fbb8f6943"
-  integrity sha512-TF7fag14lvKfZ0El3/iahYVaMNuZIMmN42r848kZGsCSMObnzL5DR3uVdHNFCy/OxgbV9ixOzBNIn2+UPC3afA==
+"@rajzik/lumos@^4.1.11":
+  version "4.1.11"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos/-/lumos-4.1.11.tgz#4e4e860a36bbe7525fc55a3239a1ccda3897330e"
+  integrity sha512-S+3mKI8dN/miPlv3Xc8lYgJFZI/PNyFRlPjar3Ejfyl6Psy/MczgEWjmlpSfFzH5qYuuhLmyJXGnXYgkaf4wRw==
   dependencies:
     "@actions/core" "^1.2.5"
     "@actions/github" "^4.0.0"
