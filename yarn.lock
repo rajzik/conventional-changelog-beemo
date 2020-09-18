@@ -1482,6 +1482,19 @@
     pretty-ms "^7.0.0"
     yaml "^1.10.0"
 
+"@boost/common@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@boost/common/-/common-2.2.1.tgz#095360a219012342334e2fffd1b0ae9929804774"
+  integrity sha512-EAXELwRdsMIN5a8Y1ChHcKFRj8S0tZubRmBkMRWuL0gAZQJ2KRqhW5qfZ4duFTLYkVJsqDnKHToytFgvr0Dliw==
+  dependencies:
+    "@boost/decorators" "^2.0.0"
+    "@boost/internal" "^2.1.0"
+    fast-glob "^3.2.4"
+    json5 "^2.1.3"
+    optimal "^4.2.0"
+    pretty-ms "^7.0.0"
+    yaml "^1.10.0"
+
 "@boost/core@^1.18.6":
   version "1.18.6"
   resolved "https://registry.yarnpkg.com/@boost/core/-/core-1.18.6.tgz#2fd8ac16b05e2a92e2c0b92be9fd2ca704307630"
@@ -2154,10 +2167,10 @@
     "@semantic-release/npm" "^7.0.6"
     "@semantic-release/release-notes-generator" "^9.0.1"
 
-"@rajzik/config-babel@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@rajzik/config-babel/-/config-babel-2.1.1.tgz#4671ccec2f02c7251f6c67b7886ca2c067933d82"
-  integrity sha512-wJMdvgVdqDKzTYshYi6l3CvJuR7tniecVS+WGj7sb6Zfwg2hrv91ml+IliL8unNX8SpCAjkLup/9GiiY2pOL5A==
+"@rajzik/config-babel@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@rajzik/config-babel/-/config-babel-2.1.2.tgz#f20814634732283386c0bc1d12ba717077eb1001"
+  integrity sha512-pFy7O3GH7cZqSCSRJQmOj2QJZ+fMTBTFsRVTa+hvP2GTfIhpUVDEwyq2IQuy+TFmvXIX9T26nenYZuSFbiH+Tg==
   dependencies:
     "@babel/cli" "^7.11.6"
     "@babel/core" "^7.11.6"
@@ -2170,7 +2183,7 @@
     "@babel/preset-typescript" "^7.10.4"
     "@beemo/core" "^1.1.8"
     "@beemo/driver-babel" "^1.2.6"
-    "@rajzik/lumos-common" "^3.1.0"
+    "@rajzik/lumos-common" "^3.1.1"
     babel-plugin-graphql-tag "^3.1.0"
     babel-plugin-module-resolver "^4.0.0"
     babel-plugin-transform-dev "^2.0.1"
@@ -2260,13 +2273,13 @@
     execa "^4.0.3"
     fast-glob "^3.2.4"
 
-"@rajzik/lumos-common@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-3.1.0.tgz#e840787c10e113f46f96636f56b357208f318b91"
-  integrity sha512-Mc88qXQKnhM679uug8F/+VlWz/1PAx4+JGZUMgsgwDr+wIO7USKeZNHqMQLDWsxST3eVt1Xm1V0dPj9R4EGqAw==
+"@rajzik/lumos-common@^3.1.0", "@rajzik/lumos-common@^3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@rajzik/lumos-common/-/lumos-common-3.1.1.tgz#966ab6f632cf0b3a72c12f6adb5342f6ddff2116"
+  integrity sha512-CTairuVu0K/jidXFfBIh6qfESKuEpy8oSDIzX77xOnqQ22CiL0lUuFBiuTjwC6ctT5jocLCAjZQZ5Uf8Y2XQ1Q==
   dependencies:
     "@beemo/core" "^1.1.8"
-    "@boost/common" "^2.2.0"
+    "@boost/common" "^2.2.1"
     execa "^4.0.3"
     fast-glob "^3.2.4"
 
