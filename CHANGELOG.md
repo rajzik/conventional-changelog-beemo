@@ -1,3 +1,36 @@
+### 2.1.2 - 2021-06-18
+
+#### 📦 Dependencies
+
+- [security] bump ws from 7.2.5 to 7.5.0 (#752) ([c2aad26](https://github.com/rajzik/conventional-changelog-beemo/commit/c2aad26)), closes [#752](https://github.com/rajzik/conventional-changelog-beemo/issues/752)
+
+#### 🛠 Internals
+
+- bump @rajzik/az-semantic-release-config from 1.1.2 to 1.1.3 (#625) ([3efa719](https://github.com/rajzik/conventional-changelog-beemo/commit/3efa719)), closes [#625](https://github.com/rajzik/conventional-changelog-beemo/issues/625)
+- bump @rajzik/config-babel from 2.1.1 to 2.2.0 (#632) ([9808c14](https://github.com/rajzik/conventional-changelog-beemo/commit/9808c14)), closes [#632](https://github.com/rajzik/conventional-changelog-beemo/issues/632)
+- bump @rajzik/config-babel from 2.2.0 to 2.2.2 (#641) ([7b5a588](https://github.com/rajzik/conventional-changelog-beemo/commit/7b5a588)), closes [#641](https://github.com/rajzik/conventional-changelog-beemo/issues/641)
+- bump @rajzik/config-babel from 2.2.2 to 3.0.0 (#656) ([70637fd](https://github.com/rajzik/conventional-changelog-beemo/commit/70637fd)), closes [#656](https://github.com/rajzik/conventional-changelog-beemo/issues/656)
+- bump @rajzik/config-jest from 2.1.0 to 3.0.0 (#659) ([45209ed](https://github.com/rajzik/conventional-changelog-beemo/commit/45209ed)), closes [#659](https://github.com/rajzik/conventional-changelog-beemo/issues/659)
+- bump @rajzik/config-jest from 3.0.0 to 3.0.3 (#674) ([d9e8acd](https://github.com/rajzik/conventional-changelog-beemo/commit/d9e8acd)), closes [#674](https://github.com/rajzik/conventional-changelog-beemo/issues/674)
+- bump @rajzik/config-jest from 3.0.3 to 3.0.5 (#688) ([b04d4c9](https://github.com/rajzik/conventional-changelog-beemo/commit/b04d4c9)), closes [#688](https://github.com/rajzik/conventional-changelog-beemo/issues/688)
+- bump @rajzik/config-prettier from 1.6.38 to 2.1.4 (#654) ([e28268f](https://github.com/rajzik/conventional-changelog-beemo/commit/e28268f)), closes [#654](https://github.com/rajzik/conventional-changelog-beemo/issues/654)
+- bump @rajzik/config-prettier from 2.1.4 to 2.1.6 (#684) ([a36371e](https://github.com/rajzik/conventional-changelog-beemo/commit/a36371e)), closes [#684](https://github.com/rajzik/conventional-changelog-beemo/issues/684)
+- bump @rajzik/config-typescript from 2.2.0 to 2.2.1 (#628) ([3f63b6f](https://github.com/rajzik/conventional-changelog-beemo/commit/3f63b6f)), closes [#628](https://github.com/rajzik/conventional-changelog-beemo/issues/628)
+- bump @rajzik/config-typescript from 2.2.1 to 3.0.0 (#658) ([330a1e6](https://github.com/rajzik/conventional-changelog-beemo/commit/330a1e6)), closes [#658](https://github.com/rajzik/conventional-changelog-beemo/issues/658)
+- bump @rajzik/conventional-changelog-lint-config-beemo (#626) ([6c00590](https://github.com/rajzik/conventional-changelog-beemo/commit/6c00590)), closes [#626](https://github.com/rajzik/conventional-changelog-beemo/issues/626)
+- bump @rajzik/lumos from 4.1.17 to 4.1.23 (#643) ([9c73c87](https://github.com/rajzik/conventional-changelog-beemo/commit/9c73c87)), closes [#643](https://github.com/rajzik/conventional-changelog-beemo/issues/643)
+- bump @rajzik/lumos from 4.1.23 to 4.1.24 (#645) ([05723ae](https://github.com/rajzik/conventional-changelog-beemo/commit/05723ae)), closes [#645](https://github.com/rajzik/conventional-changelog-beemo/issues/645)
+- bump @rajzik/lumos from 4.1.24 to 4.1.27 (#650) ([9eff1a5](https://github.com/rajzik/conventional-changelog-beemo/commit/9eff1a5)), closes [#650](https://github.com/rajzik/conventional-changelog-beemo/issues/650)
+- bump @rajzik/lumos from 4.1.27 to 5.0.3 (#663) ([5538540](https://github.com/rajzik/conventional-changelog-beemo/commit/5538540)), closes [#663](https://github.com/rajzik/conventional-changelog-beemo/issues/663)
+- bump @rajzik/lumos from 4.1.8 to 4.1.17 (#633) ([ea7a911](https://github.com/rajzik/conventional-changelog-beemo/commit/ea7a911)), closes [#633](https://github.com/rajzik/conventional-changelog-beemo/issues/633)
+- bump @rajzik/lumos from 5.0.3 to 5.0.14 (#686) ([a218403](https://github.com/rajzik/conventional-changelog-beemo/commit/a218403)), closes [#686](https://github.com/rajzik/conventional-changelog-beemo/issues/686)
+- bump @types/node from 14.10.3 to 14.11.2 (#638) ([2c22075](https://github.com/rajzik/conventional-changelog-beemo/commit/2c22075)), closes [#638](https://github.com/rajzik/conventional-changelog-beemo/issues/638)
+- bump @types/node from 14.11.2 to 14.14.6 (#725) ([e9b010b](https://github.com/rajzik/conventional-changelog-beemo/commit/e9b010b)), closes [#725](https://github.com/rajzik/conventional-changelog-beemo/issues/725)
+- bump @types/node from 14.14.6 to 14.14.7 (#735) ([886eeb9](https://github.com/rajzik/conventional-changelog-beemo/commit/886eeb9)), closes [#735](https://github.com/rajzik/conventional-changelog-beemo/issues/735)
+- bump semantic-release from 17.1.1 to 17.1.2 (#621) ([09623d7](https://github.com/rajzik/conventional-changelog-beemo/commit/09623d7)), closes [#621](https://github.com/rajzik/conventional-changelog-beemo/issues/621)
+- bump semantic-release from 17.1.2 to 17.2.0 (#687) ([f6dae57](https://github.com/rajzik/conventional-changelog-beemo/commit/f6dae57)), closes [#687](https://github.com/rajzik/conventional-changelog-beemo/issues/687)
+- bump semantic-release from 17.2.0 to 17.2.2 (#726) ([6f3d713](https://github.com/rajzik/conventional-changelog-beemo/commit/6f3d713)), closes [#726](https://github.com/rajzik/conventional-changelog-beemo/issues/726)
+
 ### 2.1.1 - 2020-09-17
 
 #### 📦 Dependencies
